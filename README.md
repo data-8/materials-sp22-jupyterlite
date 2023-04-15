@@ -1,8 +1,10 @@
-# Data 8 Public Materials for Spring 2022
+# Data 8 Public Materials from Spring 2022 Semester for JupyterLite
 
-This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2022 semester.
+This repo contains the publicly available Spring 2022 Semester materials used in the UCB Data 8: Foundations of Data Science course
 
-This includes: homeworks, labs, and notebooks used in lecture.
+This includes jupyter notebooks used for homework, labs, and projects as well as the notebooks used in lecture
+
+JupyterLite Distribution: [here](http://www.data8.org/materials-sp22-jupyterlite/)
 
 Course Calendars:
 - [Example Course Calendar from UCB Data 8](http://data8.org/materials-sp22/)

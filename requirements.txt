@@ -8,7 +8,6 @@ jupyterlab
 jupyterlab-drawio
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
-jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlite>=0.1.0,<0.2.0
 plotly>=5,<6

@@ -6,6 +6,14 @@ This includes jupyter notebooks used for homework, labs, and projects as well as
 
 JupyterLite Distribution: [here](http://www.data8.org/materials-sp22-jupyterlite/)
 
+JupyterLite Specific Notes and Instructions:
+- File changes in repository but not when loaded in JL:
+Cached files can be problem if you are loading a previously rendered notebook with changes into the same browser. If this happens, "Clear Site Data" from the browser preferences menu.
+- Finding the correct notebook:
+-- The "lec" folder contains all the lecture notebooks from Data 8. 
+-- The "data8-notebooks" folder contains all the homework, lab, and project notebooks. They are organized by homework, lab, or project number. For example, if you are looking for the lab 1 notebook, you would open : data8-notebooks/sp22/lab/lab01/lab01.ipynb
+
+
 Course Calendars:
 - [Example Course Calendar from UCB Data 8](http://data8.org/materials-sp22/)
 - [Course Calendar with link to Colab, Deepnote, Binder, and HTML Versions](http://data8.org/materials-sp22/demo.html)

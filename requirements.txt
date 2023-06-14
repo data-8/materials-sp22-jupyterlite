@@ -6,11 +6,11 @@ ipympl
 ipywidgets
 jupyterlab
 jupyterlab-drawio
-jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
+jupyterlab-fasta
+jupyterlab-geojson
 jupyterlab_miami_nights
-jupyterlite>=0.1.0,<0.2.0
-plotly>=5,<6
+jupyterlite
+plotly
 theme-darcula
 py4macro
 py4etrics

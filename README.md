@@ -4,7 +4,9 @@ This repo contains the publicly available Spring 2022 Semester materials used in
 
 This includes jupyter notebooks used for homework, labs, and projects as well as the notebooks used in lecture
 
-JupyterLite Distribution: [here](http://www.data8.org/materials-sp22-jupyterlite/)
+JupyterLite Distribution: [here](https://www.data8.org/materials-sp22-jupyterlite/)
+
+** NOTE: Be sure to use the https protocol when accessing the JL Distribution: __https__://www.data8.org/materials-sp22-jupyterlite/**
 
 JupyterLite Specific Notes and Instructions:
 - File changes in repository but not when loaded in JL:
